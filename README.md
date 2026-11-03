@@ -27,7 +27,7 @@ The analysis focuses on the following questions:
 ## Dataset
 
 The dataset contains **1,428 records** and **18 variables** before data cleaning.
-
+Dataset coming from Türkiye Yapay Zeka Akademisi Data Science Course
 The dataset includes information about:
 
 * Orders and customers
